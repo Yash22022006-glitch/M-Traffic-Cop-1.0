@@ -1,0 +1,9 @@
+{
+  "name": "Remix: Main M-Traffic Cop",
+  "description": "Admin dashboard and M-Traffic Cop app for monitoring and managing traffic violation cases detected by the mobile edge AI camera solution. Features case review, assignment, and analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
